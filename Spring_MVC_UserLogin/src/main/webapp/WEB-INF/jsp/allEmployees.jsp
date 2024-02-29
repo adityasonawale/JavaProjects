@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Employee Management</title>
+    <title>User's Credential</title>
     <style>
         body {
             margin: 0;
@@ -49,7 +49,7 @@
 </head>
 <body>
 <div class="container">
-    <h2>Employee List</h2>
+    <h2>User's List</h2>
 <table>
     <tr>
         <th>Username</th>
